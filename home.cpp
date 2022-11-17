@@ -138,7 +138,7 @@ Cylinder printCylinder()
 
 void intro () {
     cout << "Name: MAGUTU PH NYARANG'O" << endl;
-    cout << "Reg. No: SCT211-0030/2020" << endl;
+    cout << "Registration Number: SCT211-0030/2020" << endl;
 }
 
 int main()
